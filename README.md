@@ -1,16 +1,13 @@
-# shopping_list
+# shopping_list on Flutter
+# The used technologies: Firebase database, http, Circular Loading Indicator, json, Exeption, Dismissible, ListView.
 
-A new Flutter project.
+The user can create own Shopping List. The Shopping list is stored in Firebase database.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![изображение](https://github.com/VasylDvorak/shopping_list/assets/106032465/a32c0753-22ab-4324-b279-ded9799c1cb5)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![изображение](https://github.com/VasylDvorak/shopping_list/assets/106032465/13d855a1-370a-48a5-b8b8-a45eb80ca275)
+
+
