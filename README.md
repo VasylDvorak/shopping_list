@@ -1,7 +1,8 @@
 # shopping_list on Flutter
+
+# The user can create own Shopping List. The Shopping list is stored in Firebase database.
 # The used technologies: Firebase database, http, Circular Loading Indicator, json, Exeption, Dismissible, ListView.
 
-The user can create own Shopping List. The Shopping list is stored in Firebase database.
 
 
 ![изображение](https://github.com/VasylDvorak/shopping_list/assets/106032465/a32c0753-22ab-4324-b279-ded9799c1cb5)
